@@ -17,7 +17,7 @@ The app will be served at `http://localhost:3000`.
 
 ## Usage
 
-To use the app, simply add tasks to the list using the input field. Click on a conplete icon to mark it as complete as well as update and delete.
+To use the app, simply add tasks to the list using the input field. Click on a complete icon to mark it as complete as well as update and delete.
 
 ## Contributing
 
