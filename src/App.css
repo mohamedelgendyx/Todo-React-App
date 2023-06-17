@@ -1,0 +1,42 @@
+ul {
+    padding: 0 !important;
+    margin: 0 !important;
+    list-style: none;
+}
+
+.todo {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #cbedf9;
+    border-radius: 8px;
+    flex-wrap: wrap;
+    overflow: auto;
+    padding: 10px;
+    transition: 0.3s all;
+}
+.icon {
+    margin-left: 8px;
+    cursor: pointer;
+}
+.form-control {
+    width: 60% !important;
+}
+.add {
+    margin: 0;
+    height: 35px;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    border: 3px solid black !important;
+    border-left: 0 !important;
+}
+.add-task {
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    border: 3px solid black !important;
+    border-right: 0 !important;
+    font-size: 23px !important;
+}
+
+input::placeholder {
+    color: rgb(172, 172, 172) !important;
+}
