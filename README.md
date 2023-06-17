@@ -2,6 +2,8 @@
 
 This is a simple Todo App built using React. It allows users to create, edit, complete, and delete tasks.
 
+![UI](/public/UI.png)
+
 ## Getting Started
 
 To get started with the app, clone the repo and install the necessary dependencies:
