@@ -1,6 +1,6 @@
 # React Todo App
 
-This is a simple Todo App built using React. It allows users to create, complete, and delete tasks.
+This is a simple Todo App built using React. It allows users to create, edit, complete, and delete tasks.
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ The app will be served at `http://localhost:3000`.
 
 ## Usage
 
-To use the app, simply add tasks to the list using the input field. Click on a task to mark it as complete or delete it.
+To use the app, simply add tasks to the list using the input field. Click on a conplete icon to mark it as complete as well as update and delete.
 
 ## Contributing
 
